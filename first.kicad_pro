@@ -508,7 +508,7 @@
       "netlist": "firstv1.net",
       "plot": "",
       "pos_files": "",
-      "specctra_dsn": "freerouting_test/second.dsn",
+      "specctra_dsn": "../freerouting_test/third.dsn",
       "step": "",
       "svg": "",
       "vrml": ""
