@@ -10075,7 +10075,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 243.84 104.14 0)
+		(at 238.76 104.14 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10084,7 +10084,7 @@
 		(dnp no)
 		(uuid "757b6d69-9236-4be7-a90e-182c55c6ddbb")
 		(property "Reference" "C15"
-			(at 242.062 102.87 0)
+			(at 236.982 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10093,7 +10093,7 @@
 			)
 		)
 		(property "Value" "22μF"
-			(at 242.824 106.172 0)
+			(at 237.744 106.172 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10102,7 +10102,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 242.8748 107.95 0)
+			(at 237.7948 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10111,7 +10111,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 243.84 104.14 0)
+			(at 238.76 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10120,7 +10120,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 243.84 104.14 0)
+			(at 238.76 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12940,7 +12940,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 234.95 104.14 0)
+		(at 247.65 104.14 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12949,7 +12949,7 @@
 		(dnp no)
 		(uuid "ead10d85-2c72-4fe1-864a-93e1407721b9")
 		(property "Reference" "C16"
-			(at 233.172 102.87 0)
+			(at 245.872 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12958,7 +12958,7 @@
 			)
 		)
 		(property "Value" "4.7μF"
-			(at 233.934 106.172 0)
+			(at 246.634 106.172 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12967,7 +12967,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 233.9848 107.95 0)
+			(at 246.6848 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12976,7 +12976,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 234.95 104.14 0)
+			(at 247.65 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12985,7 +12985,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 234.95 104.14 0)
+			(at 247.65 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
